@@ -57,29 +57,3 @@ export function Experience() {
 
 
 
-// const experiences = [
-//   {
-//     company: 'Xorex',
-//     position: 'NOC Analyst',
-//     period: 'Feb 2023 – Actualidad',
-//     description: 'Monitored network infrastructure and systems, performed troubleshooting, and maintained network security. Implemented preventive measures and responded to technical incidents.'
-//   },
-//   {
-//     company: 'Comware',
-//     position: 'Support Ambassador',
-//     period: 'Ago 2022 – Feb 2023',
-//     description: 'Led technical support initiatives and served as main point of contact for client concerns. Provided advanced troubleshooting and maintained high customer satisfaction levels.'
-//   },
-//   {
-//     company: 'Millenium MBPO',
-//     position: 'Support Ambassador',
-//     period: 'Abr 2022 – Ago 2022',
-//     description: 'Suministrar apoyo, reparaciones y mantenimiento de equipos de cómputo, generación y escalamiento de tickets, soporte a múltiples plataformas tales como CRM, SAP, Directorio Activo, Generación de Arandas, etc.'
-//   },
-//   {
-//     company: 'Compucertec, Asesorías Forestales LTDA',
-//     position: 'Technical Support Specialist',
-//     period: 'Feb 2018 – Sep 2020',
-//     description: 'Delivered comprehensive technical support for hardware and software issues. Managed structured cabling projects and system maintenance.'
-//   }
-// ];
