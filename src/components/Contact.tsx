@@ -13,7 +13,7 @@ export function Contact() {
               <Mail className="w-6 h-6 text-blue-900" />
               <span>sebastianc.1902@hotmail.com  sebatianc.1902@gmail.com</span>
             </a>
-            <a href="tel:+1234567890" 
+            <a href="tel:+57 3132671764" 
                className="flex items-center gap-4 p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors">
               <Phone className="w-6 h-6 text-blue-900" />
               <span>+57 313 267 1764</span>
